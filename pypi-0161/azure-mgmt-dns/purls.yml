@@ -1,0 +1,17 @@
+- pkg:pypi/azure-mgmt-dns@0.30.0rc5
+- pkg:pypi/azure-mgmt-dns@0.30.0rc6
+- pkg:pypi/azure-mgmt-dns@1.0.0
+- pkg:pypi/azure-mgmt-dns@1.0.1
+- pkg:pypi/azure-mgmt-dns@1.1.0
+- pkg:pypi/azure-mgmt-dns@1.2.0
+- pkg:pypi/azure-mgmt-dns@2.0.0
+- pkg:pypi/azure-mgmt-dns@2.0.0rc1
+- pkg:pypi/azure-mgmt-dns@2.0.0rc2
+- pkg:pypi/azure-mgmt-dns@2.1.0
+- pkg:pypi/azure-mgmt-dns@3.0.0
+- pkg:pypi/azure-mgmt-dns@8.0.0
+- pkg:pypi/azure-mgmt-dns@8.0.0b1
+- pkg:pypi/azure-mgmt-dns@8.1.0
+- pkg:pypi/azure-mgmt-dns@8.1.0b1
+- pkg:pypi/azure-mgmt-dns@8.2.0
+- pkg:pypi/azure-mgmt-dns@9.0.0

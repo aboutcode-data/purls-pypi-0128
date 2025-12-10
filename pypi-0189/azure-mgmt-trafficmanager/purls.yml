@@ -1,0 +1,10 @@
+- pkg:pypi/azure-mgmt-trafficmanager@0.30.0
+- pkg:pypi/azure-mgmt-trafficmanager@0.30.0rc5
+- pkg:pypi/azure-mgmt-trafficmanager@0.30.0rc6
+- pkg:pypi/azure-mgmt-trafficmanager@0.40.0
+- pkg:pypi/azure-mgmt-trafficmanager@0.50.0
+- pkg:pypi/azure-mgmt-trafficmanager@0.51.0
+- pkg:pypi/azure-mgmt-trafficmanager@1.0.0
+- pkg:pypi/azure-mgmt-trafficmanager@1.0.0b1
+- pkg:pypi/azure-mgmt-trafficmanager@1.1.0
+- pkg:pypi/azure-mgmt-trafficmanager@1.1.0b1
