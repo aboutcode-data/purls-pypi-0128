@@ -1,0 +1,4 @@
+- pkg:pypi/auth0-jwt-validator@0.1
+- pkg:pypi/auth0-jwt-validator@1.0
+- pkg:pypi/auth0-jwt-validator@1.1
+- pkg:pypi/auth0-jwt-validator@1.2
