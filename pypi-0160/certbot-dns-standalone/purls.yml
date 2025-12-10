@@ -1,0 +1,5 @@
+- pkg:pypi/certbot-dns-standalone@1.0.1
+- pkg:pypi/certbot-dns-standalone@1.0.2
+- pkg:pypi/certbot-dns-standalone@1.0.3
+- pkg:pypi/certbot-dns-standalone@1.1
+- pkg:pypi/certbot-dns-standalone@1.2.1

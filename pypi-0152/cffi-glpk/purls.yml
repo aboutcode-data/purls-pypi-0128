@@ -1,0 +1,4 @@
+- pkg:pypi/cffi-glpk@0.1
+- pkg:pypi/cffi-glpk@0.2
+- pkg:pypi/cffi-glpk@0.4
+- pkg:pypi/cffi-glpk@0.5
