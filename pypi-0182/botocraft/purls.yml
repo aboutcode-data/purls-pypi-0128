@@ -37,6 +37,12 @@
 - pkg:pypi/botocraft@0.21.1
 - pkg:pypi/botocraft@0.21.2
 - pkg:pypi/botocraft@0.21.3
+- pkg:pypi/botocraft@0.21.4
+- pkg:pypi/botocraft@0.21.5
+- pkg:pypi/botocraft@0.21.6
+- pkg:pypi/botocraft@0.21.7
+- pkg:pypi/botocraft@0.22.0
+- pkg:pypi/botocraft@0.23.0
 - pkg:pypi/botocraft@0.3.0
 - pkg:pypi/botocraft@0.4.0
 - pkg:pypi/botocraft@0.5.0
