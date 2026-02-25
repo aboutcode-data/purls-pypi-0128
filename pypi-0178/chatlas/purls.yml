@@ -6,6 +6,8 @@
 - pkg:pypi/chatlas@0.13.1
 - pkg:pypi/chatlas@0.13.2
 - pkg:pypi/chatlas@0.14.0
+- pkg:pypi/chatlas@0.15.0
+- pkg:pypi/chatlas@0.15.1
 - pkg:pypi/chatlas@0.2.0
 - pkg:pypi/chatlas@0.3.0
 - pkg:pypi/chatlas@0.4.0
