@@ -92,6 +92,13 @@
 - pkg:pypi/apache-beam@2.69.0rc1
 - pkg:pypi/apache-beam@2.69.0rc3
 - pkg:pypi/apache-beam@2.7.0
+- pkg:pypi/apache-beam@2.70.0
 - pkg:pypi/apache-beam@2.70.0rc2
+- pkg:pypi/apache-beam@2.70.0rc3
+- pkg:pypi/apache-beam@2.70.0rc4
+- pkg:pypi/apache-beam@2.71.0
+- pkg:pypi/apache-beam@2.71.0rc1
+- pkg:pypi/apache-beam@2.71.0rc2
+- pkg:pypi/apache-beam@2.71.0rc3
 - pkg:pypi/apache-beam@2.8.0
 - pkg:pypi/apache-beam@2.9.0

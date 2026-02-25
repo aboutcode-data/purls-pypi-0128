@@ -6,3 +6,5 @@
 - pkg:pypi/ape-langchain@1.0.2
 - pkg:pypi/ape-langchain@1.0.3
 - pkg:pypi/ape-langchain@1.0.4
+- pkg:pypi/ape-langchain@1.0.5
+- pkg:pypi/ape-langchain@1.0.6

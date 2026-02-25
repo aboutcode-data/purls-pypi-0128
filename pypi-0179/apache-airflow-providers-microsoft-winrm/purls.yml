@@ -44,7 +44,12 @@
 - pkg:pypi/apache-airflow-providers-microsoft-winrm@3.12.0rc1
 - pkg:pypi/apache-airflow-providers-microsoft-winrm@3.13.0
 - pkg:pypi/apache-airflow-providers-microsoft-winrm@3.13.0rc1
+- pkg:pypi/apache-airflow-providers-microsoft-winrm@3.13.1
 - pkg:pypi/apache-airflow-providers-microsoft-winrm@3.13.1rc1
+- pkg:pypi/apache-airflow-providers-microsoft-winrm@3.13.2
+- pkg:pypi/apache-airflow-providers-microsoft-winrm@3.13.2rc1
+- pkg:pypi/apache-airflow-providers-microsoft-winrm@3.13.3
+- pkg:pypi/apache-airflow-providers-microsoft-winrm@3.13.3rc1
 - pkg:pypi/apache-airflow-providers-microsoft-winrm@3.2.0
 - pkg:pypi/apache-airflow-providers-microsoft-winrm@3.2.0rc1
 - pkg:pypi/apache-airflow-providers-microsoft-winrm@3.2.0rc2
