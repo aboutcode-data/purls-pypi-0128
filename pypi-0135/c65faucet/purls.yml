@@ -1,3 +1,4 @@
+- pkg:pypi/c65faucet@1.0.100
 - pkg:pypi/c65faucet@1.0.12
 - pkg:pypi/c65faucet@1.0.13
 - pkg:pypi/c65faucet@1.0.14
@@ -79,3 +80,8 @@
 - pkg:pypi/c65faucet@1.0.91
 - pkg:pypi/c65faucet@1.0.92
 - pkg:pypi/c65faucet@1.0.93
+- pkg:pypi/c65faucet@1.0.94
+- pkg:pypi/c65faucet@1.0.95
+- pkg:pypi/c65faucet@1.0.96
+- pkg:pypi/c65faucet@1.0.97
+- pkg:pypi/c65faucet@1.0.98

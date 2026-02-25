@@ -43,6 +43,7 @@
 - pkg:pypi/c7n-kube@0.2.45
 - pkg:pypi/c7n-kube@0.2.46
 - pkg:pypi/c7n-kube@0.2.47
+- pkg:pypi/c7n-kube@0.2.48
 - pkg:pypi/c7n-kube@0.2.5
 - pkg:pypi/c7n-kube@0.2.6
 - pkg:pypi/c7n-kube@0.2.7
