@@ -90,3 +90,4 @@
 - pkg:pypi/aiida-core@2.7.0rc1
 - pkg:pypi/aiida-core@2.7.1
 - pkg:pypi/aiida-core@2.7.2
+- pkg:pypi/aiida-core@2.7.3

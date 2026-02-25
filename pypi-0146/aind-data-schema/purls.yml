@@ -366,3 +366,7 @@
 - pkg:pypi/aind-data-schema@2.0.5
 - pkg:pypi/aind-data-schema@2.1.0
 - pkg:pypi/aind-data-schema@2.2.0
+- pkg:pypi/aind-data-schema@2.3.0
+- pkg:pypi/aind-data-schema@2.3.2
+- pkg:pypi/aind-data-schema@2.4.0
+- pkg:pypi/aind-data-schema@2.5.0
