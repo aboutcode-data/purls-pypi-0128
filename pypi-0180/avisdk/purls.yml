@@ -199,6 +199,8 @@
 - pkg:pypi/avisdk@30.2.3
 - pkg:pypi/avisdk@30.2.4
 - pkg:pypi/avisdk@30.2.5
+- pkg:pypi/avisdk@30.2.6
 - pkg:pypi/avisdk@31.1.1
 - pkg:pypi/avisdk@31.1.2
 - pkg:pypi/avisdk@31.2.1
+- pkg:pypi/avisdk@31.2.2
