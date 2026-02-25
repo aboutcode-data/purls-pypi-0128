@@ -32,3 +32,4 @@
 - pkg:pypi/blib-py@1.5.4
 - pkg:pypi/blib-py@1.5.5
 - pkg:pypi/blib-py@1.5.6
+- pkg:pypi/blib-py@1.6.0
