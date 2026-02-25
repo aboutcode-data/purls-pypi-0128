@@ -20,6 +20,8 @@
 - pkg:pypi/aria2tui@0.1.11.10
 - pkg:pypi/aria2tui@0.1.11.11
 - pkg:pypi/aria2tui@0.1.11.12
+- pkg:pypi/aria2tui@0.1.11.13
+- pkg:pypi/aria2tui@0.1.11.14
 - pkg:pypi/aria2tui@0.1.11.2
 - pkg:pypi/aria2tui@0.1.11.3
 - pkg:pypi/aria2tui@0.1.11.4
@@ -28,6 +30,12 @@
 - pkg:pypi/aria2tui@0.1.11.7
 - pkg:pypi/aria2tui@0.1.11.8
 - pkg:pypi/aria2tui@0.1.11.9
+- pkg:pypi/aria2tui@0.1.12.0
+- pkg:pypi/aria2tui@0.1.13.0
+- pkg:pypi/aria2tui@0.1.13.1
+- pkg:pypi/aria2tui@0.1.13.2
+- pkg:pypi/aria2tui@0.1.13.3
+- pkg:pypi/aria2tui@0.1.13.4
 - pkg:pypi/aria2tui@0.1.5.0
 - pkg:pypi/aria2tui@0.1.5.1
 - pkg:pypi/aria2tui@0.1.5.10
