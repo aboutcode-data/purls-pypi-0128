@@ -5,3 +5,5 @@
 - pkg:pypi/borgstats@0.0.7
 - pkg:pypi/borgstats@0.0.8
 - pkg:pypi/borgstats@0.0.9
+- pkg:pypi/borgstats@1.0.0
+- pkg:pypi/borgstats@1.0.1
