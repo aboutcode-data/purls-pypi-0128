@@ -12,6 +12,7 @@
 - pkg:pypi/brigid@0.14.1
 - pkg:pypi/brigid@0.15.0
 - pkg:pypi/brigid@0.15.1
+- pkg:pypi/brigid@0.15.2
 - pkg:pypi/brigid@0.2.0
 - pkg:pypi/brigid@0.2.1
 - pkg:pypi/brigid@0.2.2

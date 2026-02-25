@@ -152,6 +152,8 @@
 - pkg:pypi/braintree@4.39.0
 - pkg:pypi/braintree@4.4.0
 - pkg:pypi/braintree@4.40.0
+- pkg:pypi/braintree@4.41.0
+- pkg:pypi/braintree@4.42.0
 - pkg:pypi/braintree@4.5.0
 - pkg:pypi/braintree@4.6.0
 - pkg:pypi/braintree@4.7.0
