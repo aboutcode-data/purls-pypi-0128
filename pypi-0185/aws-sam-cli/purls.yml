@@ -120,6 +120,10 @@
 - pkg:pypi/aws-sam-cli@1.15.0
 - pkg:pypi/aws-sam-cli@1.150.0
 - pkg:pypi/aws-sam-cli@1.150.1
+- pkg:pypi/aws-sam-cli@1.151.0
+- pkg:pypi/aws-sam-cli@1.152.0
+- pkg:pypi/aws-sam-cli@1.153.1
+- pkg:pypi/aws-sam-cli@1.154.0
 - pkg:pypi/aws-sam-cli@1.16.0
 - pkg:pypi/aws-sam-cli@1.17.0
 - pkg:pypi/aws-sam-cli@1.18.0
