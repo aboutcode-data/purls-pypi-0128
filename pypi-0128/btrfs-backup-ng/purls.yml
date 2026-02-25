@@ -19,3 +19,5 @@
 - pkg:pypi/btrfs-backup-ng@0.6.6
 - pkg:pypi/btrfs-backup-ng@0.6.7
 - pkg:pypi/btrfs-backup-ng@0.6.8
+- pkg:pypi/btrfs-backup-ng@0.8.0
+- pkg:pypi/btrfs-backup-ng@0.8.2

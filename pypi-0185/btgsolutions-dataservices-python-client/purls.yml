@@ -59,6 +59,9 @@
 - pkg:pypi/btgsolutions-dataservices-python-client@2.16.0
 - pkg:pypi/btgsolutions-dataservices-python-client@2.17.0
 - pkg:pypi/btgsolutions-dataservices-python-client@2.17.1
+- pkg:pypi/btgsolutions-dataservices-python-client@2.18.0
+- pkg:pypi/btgsolutions-dataservices-python-client@2.18.1
+- pkg:pypi/btgsolutions-dataservices-python-client@2.18.2
 - pkg:pypi/btgsolutions-dataservices-python-client@2.2.0
 - pkg:pypi/btgsolutions-dataservices-python-client@2.3.0
 - pkg:pypi/btgsolutions-dataservices-python-client@2.4.2
@@ -68,3 +71,8 @@
 - pkg:pypi/btgsolutions-dataservices-python-client@2.7.0
 - pkg:pypi/btgsolutions-dataservices-python-client@2.8.0
 - pkg:pypi/btgsolutions-dataservices-python-client@2.9.0
+- pkg:pypi/btgsolutions-dataservices-python-client@3.0.0
+- pkg:pypi/btgsolutions-dataservices-python-client@3.1.0
+- pkg:pypi/btgsolutions-dataservices-python-client@3.2.0
+- pkg:pypi/btgsolutions-dataservices-python-client@3.2.1
+- pkg:pypi/btgsolutions-dataservices-python-client@3.2.2
