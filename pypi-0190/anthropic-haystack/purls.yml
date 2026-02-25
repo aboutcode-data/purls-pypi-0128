@@ -30,3 +30,9 @@
 - pkg:pypi/anthropic-haystack@4.5.0
 - pkg:pypi/anthropic-haystack@4.5.1
 - pkg:pypi/anthropic-haystack@4.6.0
+- pkg:pypi/anthropic-haystack@5.0.0
+- pkg:pypi/anthropic-haystack@5.1.0
+- pkg:pypi/anthropic-haystack@5.1.1
+- pkg:pypi/anthropic-haystack@5.2.0
+- pkg:pypi/anthropic-haystack@5.3.0
+- pkg:pypi/anthropic-haystack@5.4.0

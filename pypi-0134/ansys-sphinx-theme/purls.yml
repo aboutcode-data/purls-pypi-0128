@@ -103,3 +103,5 @@
 - pkg:pypi/ansys-sphinx-theme@1.6.2
 - pkg:pypi/ansys-sphinx-theme@1.6.3
 - pkg:pypi/ansys-sphinx-theme@1.6.4
+- pkg:pypi/ansys-sphinx-theme@1.7.0
+- pkg:pypi/ansys-sphinx-theme@1.7.1
