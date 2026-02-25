@@ -110,6 +110,8 @@
 - pkg:pypi/audio-separator@0.39.1
 - pkg:pypi/audio-separator@0.4.1
 - pkg:pypi/audio-separator@0.40.0
+- pkg:pypi/audio-separator@0.41.0
+- pkg:pypi/audio-separator@0.41.1
 - pkg:pypi/audio-separator@0.5.1
 - pkg:pypi/audio-separator@0.6.1
 - pkg:pypi/audio-separator@0.6.2

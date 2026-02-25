@@ -39,6 +39,11 @@
 - pkg:pypi/atopile@0.12.2
 - pkg:pypi/atopile@0.12.3
 - pkg:pypi/atopile@0.12.4
+- pkg:pypi/atopile@0.12.5
+- pkg:pypi/atopile@0.14.0
+- pkg:pypi/atopile@0.14.1004
+- pkg:pypi/atopile@0.14.2
+- pkg:pypi/atopile@0.14.3
 - pkg:pypi/atopile@0.2.0
 - pkg:pypi/atopile@0.2.0.dev0
 - pkg:pypi/atopile@0.2.1

@@ -1,4 +1,8 @@
 - pkg:pypi/audithub-client@1.1.10
+- pkg:pypi/audithub-client@1.1.11
+- pkg:pypi/audithub-client@1.1.12
+- pkg:pypi/audithub-client@1.1.13
+- pkg:pypi/audithub-client@1.1.14
 - pkg:pypi/audithub-client@1.1.3
 - pkg:pypi/audithub-client@1.1.4
 - pkg:pypi/audithub-client@1.1.5

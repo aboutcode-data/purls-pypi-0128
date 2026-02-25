@@ -1,4 +1,6 @@
+- pkg:pypi/augllm@0.2.0
 - pkg:pypi/augllm@1.0
 - pkg:pypi/augllm@1.1
 - pkg:pypi/augllm@1.2
 - pkg:pypi/augllm@1.3
+- pkg:pypi/augllm@2.1.0
