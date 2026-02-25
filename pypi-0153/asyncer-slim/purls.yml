@@ -1,6 +1,10 @@
 - pkg:pypi/asyncer-slim@0.0.1
 - pkg:pypi/asyncer-slim@0.0.10
 - pkg:pypi/asyncer-slim@0.0.11
+- pkg:pypi/asyncer-slim@0.0.12
+- pkg:pypi/asyncer-slim@0.0.13
+- pkg:pypi/asyncer-slim@0.0.14
+- pkg:pypi/asyncer-slim@0.0.15
 - pkg:pypi/asyncer-slim@0.0.7
 - pkg:pypi/asyncer-slim@0.0.7.dev1
 - pkg:pypi/asyncer-slim@0.0.8
