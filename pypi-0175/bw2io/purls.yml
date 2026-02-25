@@ -61,6 +61,9 @@
 - pkg:pypi/bw2io@0.9.1
 - pkg:pypi/bw2io@0.9.10
 - pkg:pypi/bw2io@0.9.11
+- pkg:pypi/bw2io@0.9.12
+- pkg:pypi/bw2io@0.9.13
+- pkg:pypi/bw2io@0.9.14
 - pkg:pypi/bw2io@0.9.3
 - pkg:pypi/bw2io@0.9.4
 - pkg:pypi/bw2io@0.9.5
