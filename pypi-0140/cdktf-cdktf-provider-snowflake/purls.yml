@@ -223,6 +223,7 @@
 - pkg:pypi/cdktf-cdktf-provider-snowflake@15.8.0
 - pkg:pypi/cdktf-cdktf-provider-snowflake@15.8.1
 - pkg:pypi/cdktf-cdktf-provider-snowflake@15.9.0
+- pkg:pypi/cdktf-cdktf-provider-snowflake@15.9.1
 - pkg:pypi/cdktf-cdktf-provider-snowflake@2.0.0
 - pkg:pypi/cdktf-cdktf-provider-snowflake@2.0.1
 - pkg:pypi/cdktf-cdktf-provider-snowflake@2.0.10
