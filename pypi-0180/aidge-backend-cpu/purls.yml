@@ -8,3 +8,6 @@
 - pkg:pypi/aidge-backend-cpu@0.6.1
 - pkg:pypi/aidge-backend-cpu@0.7.0
 - pkg:pypi/aidge-backend-cpu@0.8.0
+- pkg:pypi/aidge-backend-cpu@0.9.0
+- pkg:pypi/aidge-backend-cpu@0.9.0.post2
+- pkg:pypi/aidge-backend-cpu@0.9.0.post3

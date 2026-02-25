@@ -36,6 +36,8 @@
 - pkg:pypi/aiavatar@0.7.18
 - pkg:pypi/aiavatar@0.7.19
 - pkg:pypi/aiavatar@0.7.2
+- pkg:pypi/aiavatar@0.7.20
+- pkg:pypi/aiavatar@0.7.21
 - pkg:pypi/aiavatar@0.7.3
 - pkg:pypi/aiavatar@0.7.4
 - pkg:pypi/aiavatar@0.7.5
@@ -43,3 +45,13 @@
 - pkg:pypi/aiavatar@0.7.7
 - pkg:pypi/aiavatar@0.7.8
 - pkg:pypi/aiavatar@0.7.9
+- pkg:pypi/aiavatar@0.8.0
+- pkg:pypi/aiavatar@0.8.1
+- pkg:pypi/aiavatar@0.8.2
+- pkg:pypi/aiavatar@0.8.3
+- pkg:pypi/aiavatar@0.8.4
+- pkg:pypi/aiavatar@0.8.5
+- pkg:pypi/aiavatar@0.8.6
+- pkg:pypi/aiavatar@0.8.7
+- pkg:pypi/aiavatar@0.8.8
+- pkg:pypi/aiavatar@0.8.9

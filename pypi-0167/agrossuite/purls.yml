@@ -84,6 +84,9 @@
 - pkg:pypi/agrossuite@2025.11.29.320
 - pkg:pypi/agrossuite@2025.12.1.1236
 - pkg:pypi/agrossuite@2025.12.1.1555
+- pkg:pypi/agrossuite@2025.12.11.1355
+- pkg:pypi/agrossuite@2025.12.15.1615
+- pkg:pypi/agrossuite@2025.12.19.1619
 - pkg:pypi/agrossuite@2025.12.2.1041
 - pkg:pypi/agrossuite@2025.12.2.1049
 - pkg:pypi/agrossuite@2025.12.2.1148
@@ -104,3 +107,11 @@
 - pkg:pypi/agrossuite@2025.2.20.1101
 - pkg:pypi/agrossuite@2025.2.20.1508
 - pkg:pypi/agrossuite@2025.2.3.1341
+- pkg:pypi/agrossuite@2026.1.29.2331
+- pkg:pypi/agrossuite@2026.1.31.1438
+- pkg:pypi/agrossuite@2026.2.1.1722
+- pkg:pypi/agrossuite@2026.2.11.1625
+- pkg:pypi/agrossuite@2026.2.17.1315
+- pkg:pypi/agrossuite@2026.2.24.350
+- pkg:pypi/agrossuite@2026.2.3.1302
+- pkg:pypi/agrossuite@2026.2.6.2352
