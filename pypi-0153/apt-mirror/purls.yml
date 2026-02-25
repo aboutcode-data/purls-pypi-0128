@@ -6,6 +6,7 @@
 - pkg:pypi/apt-mirror@13
 - pkg:pypi/apt-mirror@14
 - pkg:pypi/apt-mirror@14a1
+- pkg:pypi/apt-mirror@15
 - pkg:pypi/apt-mirror@2
 - pkg:pypi/apt-mirror@3
 - pkg:pypi/apt-mirror@4

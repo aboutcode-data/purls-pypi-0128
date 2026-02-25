@@ -1,1 +1,4 @@
 - pkg:pypi/aqua-core@0.21.0
+- pkg:pypi/aqua-core@1.0.0a1
+- pkg:pypi/aqua-core@1.0.0a2
+- pkg:pypi/aqua-core@1.0.0a3
