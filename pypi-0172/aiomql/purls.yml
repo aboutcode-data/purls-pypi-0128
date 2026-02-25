@@ -33,6 +33,7 @@
 - pkg:pypi/aiomql@4.0.14
 - pkg:pypi/aiomql@4.0.15
 - pkg:pypi/aiomql@4.0.16
+- pkg:pypi/aiomql@4.0.17
 - pkg:pypi/aiomql@4.0.2
 - pkg:pypi/aiomql@4.0.3
 - pkg:pypi/aiomql@4.0.4

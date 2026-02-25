@@ -36,6 +36,9 @@
 - pkg:pypi/airbyte-source-marketo@1.4.36
 - pkg:pypi/airbyte-source-marketo@1.4.37
 - pkg:pypi/airbyte-source-marketo@1.4.38
+- pkg:pypi/airbyte-source-marketo@1.4.38.dev202601232101
+- pkg:pypi/airbyte-source-marketo@1.4.39
+- pkg:pypi/airbyte-source-marketo@1.4.39.dev202601232035
 - pkg:pypi/airbyte-source-marketo@1.4.4
 - pkg:pypi/airbyte-source-marketo@1.4.5
 - pkg:pypi/airbyte-source-marketo@1.4.6
