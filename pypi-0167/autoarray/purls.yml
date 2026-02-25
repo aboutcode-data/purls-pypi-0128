@@ -141,6 +141,9 @@
 - pkg:pypi/autoarray@2025.11.18.1
 - pkg:pypi/autoarray@2025.11.29.3
 - pkg:pypi/autoarray@2025.11.5.1
+- pkg:pypi/autoarray@2025.12.15.1
+- pkg:pypi/autoarray@2025.12.15.2
+- pkg:pypi/autoarray@2025.12.21.1
 - pkg:pypi/autoarray@2025.5.10.1
 - pkg:pypi/autoarray@2025.5.7.16
 - pkg:pypi/autoarray@2025.5.9.11
@@ -148,3 +151,4 @@
 - pkg:pypi/autoarray@2025.5.9.29
 - pkg:pypi/autoarray@2025.5.9.36
 - pkg:pypi/autoarray@2025.5.9.48
+- pkg:pypi/autoarray@2026.1.21.3
