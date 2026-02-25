@@ -42,3 +42,6 @@
 - pkg:pypi/amazon-braket-algorithm-library@1.6.1
 - pkg:pypi/amazon-braket-algorithm-library@1.6.2
 - pkg:pypi/amazon-braket-algorithm-library@1.6.3
+- pkg:pypi/amazon-braket-algorithm-library@1.7.0
+- pkg:pypi/amazon-braket-algorithm-library@1.7.1
+- pkg:pypi/amazon-braket-algorithm-library@1.7.3

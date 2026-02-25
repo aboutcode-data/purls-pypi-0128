@@ -1,4 +1,11 @@
 - pkg:pypi/amen-cli@0.1.0
+- pkg:pypi/amen-cli@0.10.1
+- pkg:pypi/amen-cli@0.11.0
+- pkg:pypi/amen-cli@0.11.1
+- pkg:pypi/amen-cli@0.11.3
+- pkg:pypi/amen-cli@0.11.4
+- pkg:pypi/amen-cli@0.11.5
+- pkg:pypi/amen-cli@0.12.0
 - pkg:pypi/amen-cli@0.2.0
 - pkg:pypi/amen-cli@0.3.0
 - pkg:pypi/amen-cli@0.4.0
