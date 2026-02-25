@@ -32,6 +32,8 @@
 - pkg:pypi/bmi-arcgis-restapi@2.4.11
 - pkg:pypi/bmi-arcgis-restapi@2.4.12
 - pkg:pypi/bmi-arcgis-restapi@2.4.13
+- pkg:pypi/bmi-arcgis-restapi@2.4.14
+- pkg:pypi/bmi-arcgis-restapi@2.4.15
 - pkg:pypi/bmi-arcgis-restapi@2.4.2
 - pkg:pypi/bmi-arcgis-restapi@2.4.3
 - pkg:pypi/bmi-arcgis-restapi@2.4.4

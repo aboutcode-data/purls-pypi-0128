@@ -28,6 +28,11 @@
 - pkg:pypi/booklet@0.1.7
 - pkg:pypi/booklet@0.1.8
 - pkg:pypi/booklet@0.1.9
+- pkg:pypi/booklet@0.10.0
+- pkg:pypi/booklet@0.10.1
+- pkg:pypi/booklet@0.10.2
+- pkg:pypi/booklet@0.11.0
+- pkg:pypi/booklet@0.12.0
 - pkg:pypi/booklet@0.2.0
 - pkg:pypi/booklet@0.3.0
 - pkg:pypi/booklet@0.4.0
@@ -53,3 +58,4 @@
 - pkg:pypi/booklet@0.8.0
 - pkg:pypi/booklet@0.9.1
 - pkg:pypi/booklet@0.9.2
+- pkg:pypi/booklet@0.9.3
