@@ -46,3 +46,5 @@
 - pkg:pypi/bandit@1.8.6
 - pkg:pypi/bandit@1.9.1
 - pkg:pypi/bandit@1.9.2
+- pkg:pypi/bandit@1.9.3
+- pkg:pypi/bandit@1.9.4
