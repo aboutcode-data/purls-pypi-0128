@@ -1,0 +1,16 @@
+- pkg:pypi/collective.recipe.rsync@1.0
+- pkg:pypi/collective.recipe.rsync@1.1
+- pkg:pypi/collective.recipe.rsync@1.2
+- pkg:pypi/collective.recipe.rsync@1.3
+- pkg:pypi/collective.recipe.rsync@1.4
+- pkg:pypi/collective.recipe.rsync@1.5
+- pkg:pypi/collective.recipe.rsync@1.6
+- pkg:pypi/collective.recipe.rsync@1.7
+- pkg:pypi/collective.recipe.rsync@1.8
+- pkg:pypi/collective.recipe.rsync@1.9
+- pkg:pypi/collective.recipe.rsync@2.0.0
+- pkg:pypi/collective.recipe.rsync@2.1.0
+- pkg:pypi/collective.recipe.rsync@2.2.0
+- pkg:pypi/collective.recipe.rsync@2.2.1
+- pkg:pypi/collective.recipe.rsync@2.2.2
+- pkg:pypi/collective.recipe.rsync@2.3.0
