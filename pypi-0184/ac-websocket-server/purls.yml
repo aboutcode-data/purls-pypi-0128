@@ -74,6 +74,7 @@
 - pkg:pypi/ac-websocket-server@0.7.dev22
 - pkg:pypi/ac-websocket-server@0.7.dev23
 - pkg:pypi/ac-websocket-server@0.7.dev25
+- pkg:pypi/ac-websocket-server@0.7.dev26
 - pkg:pypi/ac-websocket-server@0.7.dev3
 - pkg:pypi/ac-websocket-server@0.7.dev4
 - pkg:pypi/ac-websocket-server@0.7.dev5
@@ -81,3 +82,12 @@
 - pkg:pypi/ac-websocket-server@0.7.dev7
 - pkg:pypi/ac-websocket-server@0.7.dev8
 - pkg:pypi/ac-websocket-server@0.7.dev9
+- pkg:pypi/ac-websocket-server@1.0.dev1
+- pkg:pypi/ac-websocket-server@1.0.dev10
+- pkg:pypi/ac-websocket-server@1.0.dev2
+- pkg:pypi/ac-websocket-server@1.0.dev4
+- pkg:pypi/ac-websocket-server@1.0.dev5
+- pkg:pypi/ac-websocket-server@1.0.dev6
+- pkg:pypi/ac-websocket-server@1.0.dev7
+- pkg:pypi/ac-websocket-server@1.0.dev8
+- pkg:pypi/ac-websocket-server@1.0.dev9

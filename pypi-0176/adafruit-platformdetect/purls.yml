@@ -208,4 +208,7 @@
 - pkg:pypi/adafruit-platformdetect@3.84.0
 - pkg:pypi/adafruit-platformdetect@3.84.1
 - pkg:pypi/adafruit-platformdetect@3.85.0
+- pkg:pypi/adafruit-platformdetect@3.86.0
+- pkg:pypi/adafruit-platformdetect@3.87.0
+- pkg:pypi/adafruit-platformdetect@3.88.0
 - pkg:pypi/adafruit-platformdetect@3.9.0
