@@ -39,3 +39,4 @@
 - pkg:pypi/cattrs@25.1.1
 - pkg:pypi/cattrs@25.2.0
 - pkg:pypi/cattrs@25.3.0
+- pkg:pypi/cattrs@26.1.0
