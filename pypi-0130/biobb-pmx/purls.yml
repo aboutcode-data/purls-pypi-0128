@@ -17,3 +17,5 @@
 - pkg:pypi/biobb-pmx@4.2.1
 - pkg:pypi/biobb-pmx@5.0.0
 - pkg:pypi/biobb-pmx@5.1.0
+- pkg:pypi/biobb-pmx@5.2.0
+- pkg:pypi/biobb-pmx@5.2.1
