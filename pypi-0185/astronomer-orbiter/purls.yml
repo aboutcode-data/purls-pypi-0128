@@ -8,6 +8,10 @@
 - pkg:pypi/astronomer-orbiter@1.0.2a1
 - pkg:pypi/astronomer-orbiter@1.1.0
 - pkg:pypi/astronomer-orbiter@1.10.0
+- pkg:pypi/astronomer-orbiter@1.10.1
+- pkg:pypi/astronomer-orbiter@1.10.2
+- pkg:pypi/astronomer-orbiter@1.10.4
+- pkg:pypi/astronomer-orbiter@1.10.5
 - pkg:pypi/astronomer-orbiter@1.2.0
 - pkg:pypi/astronomer-orbiter@1.2.1
 - pkg:pypi/astronomer-orbiter@1.2.2
