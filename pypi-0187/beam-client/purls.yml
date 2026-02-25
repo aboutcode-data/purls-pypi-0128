@@ -100,6 +100,7 @@
 - pkg:pypi/beam-client@0.2.189
 - pkg:pypi/beam-client@0.2.19
 - pkg:pypi/beam-client@0.2.190
+- pkg:pypi/beam-client@0.2.191
 - pkg:pypi/beam-client@0.2.2
 - pkg:pypi/beam-client@0.2.20
 - pkg:pypi/beam-client@0.2.21
